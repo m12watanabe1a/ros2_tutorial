@@ -1,0 +1,17 @@
+{
+  "python.autoComplete.extraPaths": [
+    "${HOME}/ros2_ws/install/yolov5_ros2/lib/python3.8/site-packages",
+    "${HOME}/ros2_ws/install/yolov5_ros2_msgs/lib/python3.8/site-packages",
+    "${HOME}/ros2_ws/install/hx4_msgs/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ],
+  "files.associations": {
+    "memory": "cpp"
+  },
+  "python.analysis.extraPaths": [
+    "${HOME}/ros2_ws/install/yolov5_ros2/lib/python3.8/site-packages",
+    "${HOME}/ros2_ws/install/yolov5_ros2_msgs/lib/python3.8/site-packages",
+    "${HOME}/ros2_ws/install/hx4_msgs/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ]
+}
